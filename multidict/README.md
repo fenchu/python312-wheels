@@ -18,3 +18,6 @@ python.exe setup.py bdist_wheel --universal
 
 Install it with:
 `pip.exe install .\multidict-6.0.4-cp312-cp312-win_amd64.whl`
+
+Or from this repo: 
+`pip install https://github.com/fenchu/python312-wheels/raw/main/multidict/multidict-6.0.4-cp312-cp312-win_amd64.whl`
